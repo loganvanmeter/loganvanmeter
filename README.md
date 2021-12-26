@@ -1,6 +1,6 @@
 - @loganvanmeter
 - 🖌️ Designer 🎭 Performer 🎮 Gamer 
-- 🌱 Aspiring programmer currently learning ES6 Javascript and starting The Odin Project
+- 🌱 Aspiring programmer currently learning ES6 JavaScript and starting The Odin Project
 - Would like to eventually be node.js fullstack with React framework being the goal, but expecting to pick up some other tools for the kit along the way
 - 📧 [Email](mailto:vanmeterlj@gmail.com) 🐦[Twitter](https://twitter.com/LoganJVanMeter)
 
